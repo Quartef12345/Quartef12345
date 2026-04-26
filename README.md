@@ -1,6 +1,6 @@
 # Hi, I'm Quartef12345
 
-I'm a 16-year-old developer with a strong interest in programming, physics, and building things that probably shouldn't work but do.
+I'm a 16-year-old developer with a strong interest in programming, physics and eletronics.
 
 I've been programming for about 2-3 years, mostly self-taught — , no teachers, just problems to solve and a lot of trial and error.
 
