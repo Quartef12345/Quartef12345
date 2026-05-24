@@ -26,6 +26,8 @@ A real-time N-body gravitational physics simulator built with Python and VPython
 **Calculator Games**
 A collection of games and tools built in Python for the Casio fx-CG50 calculator — including a 2-player strategy game inspired by Catan, a flight simulator with real aerodynamic physics, and an image renderer. Most of it written at 15, shortly after learning Python.
 
+**And MORE**
+
 ---
 
 ## Currently Learning
